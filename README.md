@@ -71,7 +71,7 @@ The results indicate that living area has a relationship with house prices. Howe
 
 ## Files in This Repository
 
-- `Ml_Activity_2.ipynb` – Completed notebook containing code, outputs and visualisations.
+- `Ml_Activity_2 (1).ipynb` – Completed notebook containing code, outputs and visualisations.
 - `AmesHousing.csv` – Original Ames Housing dataset.
 - `ames_housing_prepared.csv` – Cleaned dataset containing the selected feature and target variable.
 - `README.md` – Project description, methodology and model results.
